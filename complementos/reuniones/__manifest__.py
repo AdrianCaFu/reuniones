@@ -2,9 +2,9 @@
 {
     'name': "Reuniones",
 
-    'summary': 'Módulo para reuniones',
+    'summary': "Modulo para reuniones",
 
-    'description': "Módulo que permite asignar salas para reuniones",
+    'description': "Modulo que permite asignar salas para reuniones",
 
     'author': "Adrián",
     'website': "https://www.acano.com",
