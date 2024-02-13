@@ -2,7 +2,7 @@
 {
     'name': "Reuniones",
 
-    'summary': "Módulo para reuniones",
+    'summary': 'Reuniones',
 
     'description': "Módulo que permite asignar salas para reuniones",
 
