@@ -1,20 +1,18 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "reuniones",
+    'name': "Reuniones",
 
-    'summary': "Short (1 phrase/line) summary of the module's purpose",
+    'summary': "Módulo para reuniones",
 
-    'description': """
-Long description of module's purpose
-    """,
+    'description': "Módulo que permite asignar salas para reuniones",
 
-    'author': "My Company",
-    'website': "https://www.yourcompany.com",
+    'author': "Adrián",
+    'website': "https://www.acano.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/15.0/odoo/addons/base/data/ir_module_category_data.xml
     # for the full list
-    'category': 'Uncategorized',
+    'category': 'Planificación',
     'version': '0.1',
 
     # any module necessary for this one to work correctly
