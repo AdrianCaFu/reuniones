@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:postgresql://localhost:5434/odoo_reuniones</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="odoo_reuniones2@localhost" uuid="bf649e7c-86b7-41d1-b07c-c06ffd69f24d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5434/odoo_reuniones2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
